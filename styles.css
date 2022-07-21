@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(169, 246, 238);
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    -webkit-text-stroke: 1px limegreen;
+}
+
+.movie {
+    font-size: 125%;
+    font-style: italic;
+    color: blueviolet;
+}
+
+.actors {
+    color: rgb(18, 18, 161);
+}
+h1:hover ,.movie:hover{
+    background-color: turquoise;
+}
